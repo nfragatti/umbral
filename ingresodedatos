@@ -2,7 +2,5 @@
 Cargue aqui los datos de su observación
 	umbral:
         <input type="text" name="Umbral" />
-	<br>
-    <div>
-    <div class="button">
+	<div class="button">
         <button type="submit">Envíe sus datos</button>
