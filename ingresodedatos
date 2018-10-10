@@ -1,0 +1,16 @@
+
+<html>
+Cargue aqui los datos de su observación
+<form action="/my-handling-form-page" method="post">
+    <div>
+	umbral:
+        <input type="text" name="Umbral" />
+    </div>
+	<br>
+    <div>
+    <div class="button">
+        <button type="submit">Envíe sus datos</button>
+    </div>
+</form>
+
+</html>
